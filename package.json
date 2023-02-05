@@ -14,6 +14,14 @@
     "astro": "^2.0.6"
   },
   "devDependencies": {
+    "@typescript-eslint/parser": "^5.50.0",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-astro": "^0.23.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
     "prettier": "^2.8.3",
     "prettier-plugin-astro": "^0.8.0"
   }
